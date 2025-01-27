@@ -8,8 +8,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.notebookonsupabase2.presentation.ui.ListDetailsScreen
-import com.example.notebookonsupabase2.presentation.ui.ListScreen
+import com.example.notebookonsupabase2.presentation.screen.ListDetailsScreen
+import com.example.notebookonsupabase2.presentation.screen.ListScreen
 import dagger.hilt.android.AndroidEntryPoint
 import java.util.UUID
 

@@ -1,4 +1,4 @@
-package com.example.notebookonsupabase2.presentation.ui
+package com.example.notebookonsupabase2.presentation.screen
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.lazy.LazyColumn
